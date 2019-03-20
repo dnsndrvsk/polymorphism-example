@@ -8,6 +8,6 @@ class Panther extends Feline {
 	
 	@Override
 	public void jump() {
-		System.out.println("Пантера прыгает");
+		System.out.println("Panther jumps!");
 	}
 }

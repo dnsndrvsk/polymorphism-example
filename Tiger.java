@@ -8,6 +8,6 @@ class Tiger extends Feline {
 	
 	@Override
 	public void jump() {
-		System.out.println("Тигр прыгает");
+		System.out.println("Tiger jumps!");
 	}
 }
